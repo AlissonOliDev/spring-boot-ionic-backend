@@ -1,0 +1,29 @@
+[33mcommit c44cb708913ef837a1e1e17a88557ba422d6fcd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Alisson Oliveira <alissonoliveira.dev@gmail.com>
+Date:   Fri Oct 16 19:12:38 2020 -0300
+
+    Criando repository e service para Categoria
+
+[33mcommit e02a92f29238d9327dd900ef0d8d8f60b72d5d60[m
+Author: Alisson Oliveira <alissonoliveira.dev@gmail.com>
+Date:   Fri Oct 16 17:13:23 2020 -0300
+
+    Banco de dados H2 e criacao automatica da base de dados
+
+[33mcommit 58f1b2780e26c587b958b3ecdca660f6f89dc3a4[m
+Author: Alisson Oliveira <alissonoliveira.dev@gmail.com>
+Date:   Fri Oct 16 16:36:36 2020 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit 1717cc4ff190d092983de7a2515dabe9600d1d93[m
+Author: Alisson Oliveira <alissonoliveira.dev@gmail.com>
+Date:   Fri Oct 16 15:53:47 2020 -0300
+
+    REST testado
+
+[33mcommit 070b7b291176c7920d8db48bbe9018901688c891[m
+Author: Alisson Oliveira <alissonoliveira.dev@gmail.com>
+Date:   Fri Oct 16 15:30:50 2020 -0300
+
+    Projeto criado
